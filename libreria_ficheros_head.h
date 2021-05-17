@@ -1,10 +1,11 @@
-/*
-
-    Creado por : Faozi Bouybaouene
-    Creado el  : 11 de Abril 2021
-
-*/
-
+/***********************************************
+*
+* @Proposito: libreria de acciones head
+* @Autor/es: Faozi Bouybaouene Gadrouz
+* @Fecha creacion: 11 de Abril 2021
+* @Fecha ultima modificacion:8 Mayo 2021
+*
+************************************************/
 #define MAX_LEN 50
 #define MAX_FILENAME 30
 
